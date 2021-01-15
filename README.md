@@ -6,3 +6,5 @@ The ai is trained to play the game by repetetively playing against itself by ini
 
 ## Template
 This was an assignment in which I built upon a template from the Harvard CS50 online course. It can be found at https://cs50.harvard.edu/ai/2020/projects/4/nim/
+
+![Nim](https://github.com/chenalan02/Nim-ai-ml-Harvard-cs50ai/blob/master/Nim.JPG)
